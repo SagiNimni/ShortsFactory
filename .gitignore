@@ -1,3 +1,6 @@
 content/
+input/
+output/
 test.py
-secrets.txt
+session.txt
+secret.py
